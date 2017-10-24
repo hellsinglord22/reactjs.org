@@ -12,7 +12,7 @@ redirect_from:
   - "docs/tutorial-zh-CN.html"
 ---
 
-## Before We Start
+## Before We Startt
 
 ### What We're Building
 
